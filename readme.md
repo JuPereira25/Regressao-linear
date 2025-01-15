@@ -15,3 +15,5 @@ Jornal vs Vendas:
  Isso sugere que a publicidade em jornais tem um impacto limitado ou inconsistente nas vendas.
 
 
+A Analise ainda não está completa, pois o modelo de treinamento não preve 100% que o meio de camapnhas da Tv sejá o uníco responsavel pelo aumento das vendas, 
+sendo necessário uma analise mais profunda do dataset. 
