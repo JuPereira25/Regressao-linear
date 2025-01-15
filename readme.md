@@ -14,4 +14,4 @@ Jornal vs Vendas:
  - Os dados estão dispersos, sem uma tendência linear evidente, e muitos pontos estão concentrados à esquerda. 
  Isso sugere que a publicidade em jornais tem um impacto limitado ou inconsistente nas vendas.
 
-objetivo: Estou tentando prever se a publicidade na TV é o meio mais lucrativo para as vendas. 
+
